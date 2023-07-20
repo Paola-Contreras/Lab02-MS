@@ -1,1 +1,1 @@
-# Compis-2
+## Lab 02 Modelación y simulación
